@@ -1,9 +1,3 @@
-#-*- coding=utf-8 -*-
-#@time : 2020/12/9 下午3:29
-#@Author : WuErShan
-#@File : comment_spider.py
-#@Software : PyCharm
-
 import time
 import csv
 import requests
