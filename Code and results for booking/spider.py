@@ -1,17 +1,8 @@
-#-*- coding=utf-8 -*-
-#@time : 2021/1/6 下午9:32
-#@Author : WuErShan
-#@File : spider.py
-#@Software : PyCharm
-
 import requests
 import bs4
 import json
 import csv
 import re
-
-
-
 
 # 1.请求页面，拿到数据
 def get_url(page):
