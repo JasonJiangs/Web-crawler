@@ -1,10 +1,3 @@
-#-*- coding=utf-8 -*-
-#@time : 2021/1/8 下午12:24
-#@Author : WuErShan
-#@File : read.py
-#@Software : PyCharm
-
-
 import pandas as pd
 import numpy as np
 
