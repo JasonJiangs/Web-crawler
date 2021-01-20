@@ -1,16 +1,3 @@
-#-*- coding=utf-8 -*-
-#@time : 2021/1/19 上午11:26
-#@Author : WuErShan
-#@File : f.py
-#@Software : PyCharm
-
-
-#-*- coding=utf-8 -*-
-#@time : 2020/12/23 下午3:19
-#@Author : WuErShan
-#@File : cut.py
-#@Software : PyCharm
-
 import pandas as pd
 import xlsxwriter
 import os
