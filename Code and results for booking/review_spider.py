@@ -1,9 +1,3 @@
-#-*- coding=utf-8 -*-
-#@time : 2021/1/7 下午11:00
-#@Author : WuErShan
-#@File : review_spider.py
-#@Software : PyCharm
-
 import requests
 import re
 import bs4
