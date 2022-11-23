@@ -1,4 +1,4 @@
-# Research-for-Online-Hotel-Reviews
+# Web crawler
 
 Web Crawler for collecting hotels information and their online reviews.
 
